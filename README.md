@@ -13,4 +13,4 @@ FTPGear is a small script which allows you to perform some FTP actions<br>
 # CLI Interface
 <img src=/img/ftpgear.gif>
 ## Directory
-<img src=/img/directory.gif>
+<br><img src=/img/directory.gif>
