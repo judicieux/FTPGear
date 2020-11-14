@@ -10,7 +10,7 @@ FTPGear is a small script which allows you to perform some FTP actions<br>
 * change directory        
 * rename directory or file  
 * create mass files/directories
-### Ftplib
+## Ftplib
 **ls**
 ```py
 ftp.dir()
