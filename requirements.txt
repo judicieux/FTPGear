@@ -1,0 +1,5 @@
+ftplib
+colorama
+socket
+mmap
+os
