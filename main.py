@@ -43,8 +43,7 @@ def logo():
     ██║        ██║   ██║     ╚██████╔╝███████╗██║  ██║██║  ██║
     ╚═╝        ╚═╝   ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
     
-         [+] Github : https://github.com/g0osebumps [+]
-        [+] Twitter : https://twitter.com/g0os3bumps [+]                                             
+         [+] Github : https://github.com/hypostat1c [+]
     """
     print(logo)
 
